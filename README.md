@@ -2,9 +2,6 @@
 
 ### 🚀 Striving to be an outlier, not the mean
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2CB&lines=Solving+Problems+at +Scale;Building+reliable+system;" />
-</p>
 
 ---
 
