@@ -68,7 +68,6 @@ I’m particularly interested in **backend architecture**, **secure authenticati
 
 ---
 
-
 I’m open to **backend engineering roles**, **open-source contributions**, and **innovative system design projects**.  
 
 If you're building something impactful — let’s connect 🚀
