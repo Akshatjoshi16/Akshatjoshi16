@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Akshat Joshi**  
 
-### 🚀 Striving to be an outlier, not the mean
+### 🚀 Aspiring Software Engineer|Backend Developer|Competitive Programmer.
 
 
 ---
