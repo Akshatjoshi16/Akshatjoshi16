@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Akshat Joshi**  
 
-### 🚀 Aspiring Software Engineer|Backend Developer|Competitive Programmer.
+### 🚀 Aspiring Software Engineer | Backend Developer | Competitive Programmer.
 
 
 ---
