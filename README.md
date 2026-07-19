@@ -1,6 +1,6 @@
 <div align="center">
 
-# Akshat Joshi
+# Akshat Joshi 
 
 **Backend Engineer · Java & Spring Boot · Competitive Programmer**
 
