@@ -80,7 +80,7 @@ I write Java daily, think in systems, and treat every problem as an opportunity 
 
 ---
 
-## Contribution Graph
+## Contribution Graph 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatjoshi16&theme=tokyo-night&hide_border=true&area=true" />
