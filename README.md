@@ -2,7 +2,7 @@
 
 # Akshat Joshi 
 
-**Backend Engineer · Java & Spring Boot · Competitive Programmer**
+**Software engineer**
 
 *Building scalable, enterprise-grade systems from Indore, India* 🇮🇳
 
